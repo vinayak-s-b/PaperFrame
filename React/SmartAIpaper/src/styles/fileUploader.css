@@ -1,0 +1,13 @@
+.fileContent{
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:beige;
+    margin:10px 100px;
+}
+.input-pdf{
+    margin: 5px 0px;
+}
+.message{
+    font-size: 20px;
+    color: beige;
+}
